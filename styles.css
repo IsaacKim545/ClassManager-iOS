@@ -937,10 +937,6 @@ em {
     --shell: min(1120px, 100% - 32px);
   }
 
-  .site-header {
-    position: relative;
-  }
-
   .site-nav,
   .header-cta {
     display: none;
@@ -948,6 +944,13 @@ em {
 
   .menu-toggle {
     display: flex;
+    margin-left: auto;
+  }
+
+  /* 처리방침·지원 페이지에는 햄버거 메뉴가 없으므로
+     모바일에서도 '홈으로' 버튼을 그대로 보여줍니다. */
+  .legal-header .header-cta {
+    display: inline-block;
     margin-left: auto;
   }
 

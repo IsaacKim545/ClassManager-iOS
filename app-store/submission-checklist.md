@@ -8,7 +8,7 @@
   - [ ] `https://isaackim545.github.io/ClassManager-iOS/support.html`
 - [ ] 개인정보 처리방침과 지원 페이지의 **문의 이메일이 실제 수신 가능한
       주소**인지 확인 (심사팀이 실제로 확인합니다)
-- [ ] 페이지에 `itdasoft1@gmail.com` 같은 미치환 자리표시자가 남아 있지 않은지 확인
+- [ ] 페이지에 미치환 자리표시자(대문자 CONTACT + EMAIL 형태)가 남아 있지 않은지 확인
 
 ## 2. 빌드
 
